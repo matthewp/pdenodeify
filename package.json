@@ -1,6 +1,6 @@
 {
   "name": "pdenodeify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A denodeify that doesn't suck",
   "main": "lib/main.js",
   "scripts": {
