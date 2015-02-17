@@ -9,7 +9,7 @@
   "author": "Matthew Phillips",
   "license": "MIT",
   "devDependencies": {
-    "es6-promise": "^1.0.0",
+    "es6-promise": "^2.0.0",
     "mocha": "^1.21.4"
   }
 }
